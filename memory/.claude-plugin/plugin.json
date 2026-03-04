@@ -1,5 +1,5 @@
 {
   "name": "memory",
-  "version": "1.0.0",
-  "description": "Save session learnings to CLAUDE.md"
+  "version": "2.0.0",
+  "description": "Smart memory curator — save, forget, recall, and audit cross-session learnings in CLAUDE.md"
 }

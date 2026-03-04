@@ -12,7 +12,7 @@
     {
       "name": "memory",
       "source": "./memory",
-      "description": "Save session learnings to CLAUDE.md"
+      "description": "Smart memory curator — save, forget, recall, and audit cross-session learnings in CLAUDE.md"
     }
   ]
 }
